@@ -40,8 +40,10 @@ function dec(n) {
 function makeInt(n) {
   
   
-  
+  if (n= 2)
   return parseInt('2', 10);
+  
+  
   
 }
 
