@@ -45,6 +45,7 @@ function makeInt(n) {
  
   
 }
+makeInt(n)
 
 function preserveDecimal(n) {
 
