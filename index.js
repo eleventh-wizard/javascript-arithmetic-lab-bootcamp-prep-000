@@ -2,7 +2,7 @@ var a,b;
 
 a=1;
 b=2;
-n=10;
+
 
 function add(a,b) {
   
@@ -11,7 +11,7 @@ function add(a,b) {
 
 function subtract(a,b) {
   
-  return b-a;
+  return a-b;
 }
 
 function multiply(a,b) {
