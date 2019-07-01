@@ -41,12 +41,10 @@ function makeInt(n) {
   
   
   if (n=== 0);
-  return parseInt('0', 10);
-  
-  else if (n=== word);
-  return parseInt('word',10);
-  
-  else if (n=== 2); 
+  return parseInt('0', 10)
+   if (n=== word);
+  return parseInt('word',10)
+  if (n=== 2); 
   return parseInt('2', 10);
   
   
@@ -56,6 +54,5 @@ function makeInt(n) {
 function preserveDecimal(n) {
   
  
-  
   return parseFloat('2.222');
 }
