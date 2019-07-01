@@ -1,7 +1,11 @@
 var a,b
-{add(a,b)
-  var a = 1
-  var b = 2
+
+a=1
+b=2
+
+{
+  add(a,b) 
   a+b;
 }
 add(a,b)
+
