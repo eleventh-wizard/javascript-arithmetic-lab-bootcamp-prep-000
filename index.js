@@ -39,15 +39,8 @@ function dec(n) {
 
 function makeInt(n) {
   
-  
-  if (n=== 0);
-  return parseInt('0', 10)
-   if (n=== word);
-  return parseInt('word',10)
-  if (n=== 2); 
-  return parseInt('2', 10);
-  
-  
+  return parseInt('n', 10);
+ 
   
 }
 
