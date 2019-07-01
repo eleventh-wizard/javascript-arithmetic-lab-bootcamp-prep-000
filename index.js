@@ -41,7 +41,7 @@ function makeInt(n) {
   
   number = parseInt('3.7', 10);
   
-  return number
+  return number;
  
   
 }
