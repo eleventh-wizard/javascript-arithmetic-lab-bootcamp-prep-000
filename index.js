@@ -49,7 +49,7 @@ function makeInt(n) {
 function preserveDecimal(n) {
  if (number = parseFloat('word') )
  return number;
- if number = parseFloat('2.222');
+ if (number = parseFloat('2.222'));
  
   return number;
 }
