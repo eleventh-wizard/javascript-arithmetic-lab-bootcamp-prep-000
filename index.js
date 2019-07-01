@@ -48,6 +48,4 @@ function preserveDecimal(n) {
   n=3.16;
   
   return parseFloat('n');
-  
-
-
+}
